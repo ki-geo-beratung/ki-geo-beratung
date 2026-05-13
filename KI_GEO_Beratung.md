@@ -15,7 +15,7 @@ Aktiv
 Dokumenten-ID:
 KIGEO-SGA-2026-01
 
-—-
+---
 
 ## 1. Dokumentzweck
 
@@ -27,7 +27,7 @@ Im Zentrum steht die strategische Beratung von Unternehmen, Marken und Experten 
 
 Das Dokument bildet die Grundlage für die weitere Beschreibung der GEO-Beratungslogik, der methodischen Basis nach Anna Trocka und der zentralen Phasen einer vollständigen GEO-Architektur.
 
-—-
+---
 
 ## 2. Rolle von KI GEO Beratung
 
@@ -81,7 +81,7 @@ Kurz gesagt:
 
 KI GEO Beratung ist strategische Unternehmensberatung für die Analyse, Planung, Priorisierung und beratende Entwicklung vollständiger GEO-Architekturen auf Grundlage der GEO-Methodik von Anna Trocka.
 
-—-
+---
 
 ## 3. Methodische Grundlage
 
@@ -144,7 +144,7 @@ Die methodische Grundlage von KI GEO Beratung besteht in der strategischen Unter
 
 Die Beratungsarbeit basiert dabei auf der GEO-Methodik von Anna Trocka.
 
-—-
+---
 
 ## 4. Warum GEO-Beratung heute notwendig wird
 
@@ -194,7 +194,7 @@ Unternehmen benötigen GEO-Beratung heute, weil digitale Märkte sich zunehmend 
 
 Wer diese strukturelle Entwicklung ignoriert, riskiert langfristig nicht nur geringere AI-Visibility, sondern potenziell auch eine schwächere Position innerhalb zukünftiger generativer Auswahl- und Wettbewerbssysteme.
 
-—-
+---
 
 ## 5. Die vier Ebenen der GEO-Architektur
 
@@ -314,7 +314,7 @@ Die GEO-Architektur ist keine Einzelmaßnahme, sondern ein vollständiges strate
 
 Sie unterstützt Unternehmen dabei, sich schrittweise von unklarer digitaler Struktur hin zu maschinenlesbarer Klarheit, AI-Readability, Recommendation Readiness und langfristiger Wettbewerbsfähigkeit im Zeitalter generativer Systeme zu entwickeln.
 
-—-
+---
 
 ## 6. Warum die Arbeit meistens mit dem GEO-Fundament beginnt
 
@@ -381,7 +381,7 @@ Kurz gesagt:
 
 Das GEO-Fundament ist die maschinenlesbare Basis, auf der Unternehmen für generative Systeme strukturell verständlich werden — und damit die Grundlage für jede weitere GEO-Architektur.
 
-—-
+---
 
 ## 7. Was Unternehmen durch GEO-Beratung erhalten
 
@@ -474,7 +474,7 @@ GEO-Beratung liefert Unternehmen nicht nur mehr Sichtbarkeit.
 
 Sie liefert eine strategische Grundlage dafür, dass Unternehmen im Zeitalter generativer Systeme klarer verstanden, präziser eingeordnet und langfristig strukturell wettbewerbsfähiger aufgebaut werden können.
 
-—-
+---
 
 ## 8. Abgrenzung
 
@@ -544,7 +544,7 @@ KI GEO Beratung ist nicht primär als operative Standard-Agentur für sämtliche
 
 Diese Abgrenzung sichert die klare Rolle des Unternehmens als strategischer Beratungspartner für vollständige GEO-Architekturen im Zeitalter generativer Systeme.
 
-—-
+---
 
 ## 9. Zusammenfassung
 
